@@ -1,11 +1,11 @@
-version: 0.1
-
+version: 0.2
+env:
 phases:
-	build:
-		Commands:
-		- echo nothing to do yet
+build:
+Commands:
+- echo nothing to do yet
 artifacts:
-	files:
+  files:
 	- index.html
 	- favicon.ico
 	- Bodley_Mark_WEBResume.pdf
