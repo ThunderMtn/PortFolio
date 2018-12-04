@@ -6,9 +6,9 @@ Commands:
 - echo nothing to do yet
 artifacts:
   files:
-	- index.html
-	- favicon.ico
-	- Bodley_Mark_WEBResume.pdf
-	- styles/main.css
-	- images/*
+  - index.html
+  - favicon.ico
+  - Bodley_Mark_WEBResume.pdf
+  - styles/main.css
+  - images/*
 	
