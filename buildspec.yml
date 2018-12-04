@@ -1,13 +1,12 @@
 version: 0.2
-
 phases:
- build:
-  commands:
-  - echo nothing to do yet
- artifacts:
-  files:
-  - index.html
-  - favicon.ico
-  - Bodley_Mark_WEBResume.pdf
-  - styles/main.css
-  - images/*
+build:
+commands:
+- echo nothing to do yet
+artifacts:
+files:
+- index.html
+- favicon.ico
+- Bodley_Mark_WEBResume.pdf
+- styles/main.css
+- images/*
