@@ -10,3 +10,4 @@ phases:
   - favicon.ico
   - Bodley_Mark_WEBResume.pdf
   - styles/main.css
+  - images/*
