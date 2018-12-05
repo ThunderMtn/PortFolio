@@ -6,4 +6,7 @@ commands:
 - echo nothing to do right today
 artifacts:
 files:
--index.html
+- index.html
+- favicon.ico
+- Bodley_Mark_WEBResume.pdf
+- images/*
